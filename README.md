@@ -51,3 +51,18 @@ Al finalizar este hito deberás tener la estructura básica del proyecto individ
 ## Requisitos - HW09: Auth II
 
 - [ :white_check_mark: ] Al terminar este hito la aplicación deberá contar con rutas protegidas por medio del Control de acceso basado en roles.
+
+## Requisitos - HW10: Testing (Jest)
+Para tomar el extra credit de este hito el alumno deberá haber creado:
+
+- [  ] 5 pruebas unitarias de al menos 5 funcionalidades diferentes dentro de la aplicación.
+
+- [  ] Validar mediante pruebas de integración el funcionamiento de al menos 5 rutas de la aplicación. 
+
+## Requisitos - HW12: Docker
+
+- [ :white_check_mark: ] Al finalizar el hito el alumno deberá contar con una aplicación completamente montada en contenedores de docker que pueda ser levantada de forma integral mediante docker compose y preserve todas sus funcionalidades de manera local.
+
+## Requisitos - HW13: Deployment
+
+- [ :white_check_mark: ] Este es un hito extra credit. Consiste en implementar estrategia de CI/CD con workflow(Github Actions) de la aplicación dokerizada y despliege en la nube de la base de datos, junto con la respectiva comunicación entre estos dos componentes. El resultado debe ser una app totalmente funcional para acceder desde cualquier lugar.
